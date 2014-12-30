@@ -98,9 +98,7 @@ namespace Punto_de_Venta.Pantallas.Cajas
                     malas++;
                 if (!elValidar.ValidaIntMayorIgualCero(txbTotal, elErrorProvider, "TOTAL"))
                     malas++;
-
             }
-
             if (malas == 0)
                 return true;
             else
@@ -117,7 +115,7 @@ namespace Punto_de_Venta.Pantallas.Cajas
             if (e.KeyCode == Keys.Escape)
             {
                 btnCalcularTotal_Click(null, null);
-            }
+            }//hola
         }
 
     }
