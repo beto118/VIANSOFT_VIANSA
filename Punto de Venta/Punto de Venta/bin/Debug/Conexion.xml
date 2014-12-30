@@ -1,0 +1,11 @@
+<?xml version="1.0" standalone="yes"?>
+<Conexion>
+  <server>VIANSA-PC\SQLSERVER</server>
+  <database>VIANSA</database>
+  <direccionImagenFondo>C:\Users\Public\Pictures\Sample Pictures\Desert.jpg</direccionImagenFondo>
+  <reporte>D:\VIANSOFT\Reportes\</reporte>
+  <numcaja>1</numcaja>
+  <puerto>com1</puerto>
+  <impresoraFactura>EPSON TM-U220 Receipt</impresoraFactura>
+  <licencia>778138-777777</licencia>
+</Conexion>
