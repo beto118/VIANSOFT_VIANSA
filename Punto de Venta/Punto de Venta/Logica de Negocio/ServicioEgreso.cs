@@ -72,6 +72,32 @@ namespace Punto_de_Venta.Logica_de_Negocio
             return respuesta;
 
         }
+        //Inserta  Egreso automatico
+        public String InsertarEgresoAutomatico(int EgresoTipo_id, double Egreso_monto, string Egreso_nota, int usuario_codigo)
+        {
+            miComando.CommandText = "[SPR_Tbl_Egreso_insertar_AUTOMATICO]";
+
+            //miComando.Parameters.Add("@Egreso_id", SqlDbType.Int);
+            //miComando.Parameters["@Egreso_id"].Direction = ParameterDirection.Output;
+
+            miComando.Parameters.Add("@EgresoTipo_id", SqlDbType.Int).Value = EgresoTipo_id;
+
+            miComando.Parameters.Add("@Egreso_monto", SqlDbType.Money).Value = Egreso_monto;
+
+            miComando.Parameters.Add("@Egreso_nota", SqlDbType.VarChar).Value = Egreso_nota;
+
+            miComando.Parameters.Add("@usuario_codigo", SqlDbType.Int).Value = usuario_codigo;
+
+            respuesta = this.ejecutaSentencia(miComando);
+            if (respuesta == "")
+            {
+               // Egreso_id = int.Parse(miComando.Parameters["@Egreso_id"].Value.ToString());
+                respuesta = respuestaCorrecta;
+            }
+            return respuesta;
+
+
+        }
 		//Consultar  Egreso
         public DataRow ConsultarEgreso(int Egreso_id)
         {

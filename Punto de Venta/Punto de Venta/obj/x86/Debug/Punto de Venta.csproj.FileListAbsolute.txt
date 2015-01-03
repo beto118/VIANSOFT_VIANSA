@@ -3024,3 +3024,85 @@ D:\DESARROLLO\PUNTO VENTA\VIANSOFT_VIANSA\VERSIONES\version 28..12.14\Punto de V
 C:\Users\VIANSA\Documents\GitHub\VIANSOFT_VIANSA\Punto de Venta\Punto de Venta\bin\Debug\Punto de Venta.exe.config
 C:\Users\VIANSA\Documents\GitHub\VIANSOFT_VIANSA\Punto de Venta\Punto de Venta\obj\x86\Debug\Punto de Venta.exe
 C:\Users\VIANSA\Documents\GitHub\VIANSOFT_VIANSA\Punto de Venta\Punto de Venta\obj\x86\Debug\Punto de Venta.pdb
+C:\Users\VIANSA\Documents\GitHub\VIANSOFT_VIANSA\Punto de Venta\Punto de Venta\bin\Debug\Punto de Venta.exe
+C:\Users\VIANSA\Documents\GitHub\VIANSOFT_VIANSA\Punto de Venta\Punto de Venta\bin\Debug\Punto de Venta.pdb
+C:\Users\VIANSA\Documents\GitHub\VIANSOFT_VIANSA\Punto de Venta\Punto de Venta\bin\Debug\af\Punto de Venta.resources.dll
+C:\Users\VIANSA\Documents\GitHub\VIANSOFT_VIANSA\Punto de Venta\Punto de Venta\bin\Debug\CODESOFTComponentes.dll
+C:\Users\VIANSA\Documents\GitHub\VIANSOFT_VIANSA\Punto de Venta\Punto de Venta\obj\x86\Debug\Punto de Venta.csprojResolveAssemblyReference.cache
+C:\Users\VIANSA\Documents\GitHub\VIANSOFT_VIANSA\Punto de Venta\Punto de Venta\obj\x86\Debug\Punto_de_Venta.Pantallas.Agenda.Frm_Agenda.resources
+C:\Users\VIANSA\Documents\GitHub\VIANSOFT_VIANSA\Punto de Venta\Punto de Venta\obj\x86\Debug\Punto_de_Venta.Pantallas.Agenda.Frm_ListarAgenda.resources
+C:\Users\VIANSA\Documents\GitHub\VIANSOFT_VIANSA\Punto de Venta\Punto de Venta\obj\x86\Debug\Punto_de_Venta.Pantallas.Cajas.Frm_AperturaCaja.resources
+C:\Users\VIANSA\Documents\GitHub\VIANSOFT_VIANSA\Punto de Venta\Punto de Venta\obj\x86\Debug\Punto_de_Venta.Pantallas.Cajas.Frm_ListarCajas.resources
+C:\Users\VIANSA\Documents\GitHub\VIANSOFT_VIANSA\Punto de Venta\Punto de Venta\obj\x86\Debug\Punto_de_Venta.Pantallas.Cajas.Frm_RegistarCaja.resources
+C:\Users\VIANSA\Documents\GitHub\VIANSOFT_VIANSA\Punto de Venta\Punto de Venta\obj\x86\Debug\Punto_de_Venta.Pantallas.Cantidad_Inv.Frm_Insertar_Cantidad_Inv.resources
+C:\Users\VIANSA\Documents\GitHub\VIANSOFT_VIANSA\Punto de Venta\Punto de Venta\obj\x86\Debug\Punto_de_Venta.Pantallas.Cantidad_Inv.Frm_Listar_Cant_Inv.resources
+C:\Users\VIANSA\Documents\GitHub\VIANSOFT_VIANSA\Punto de Venta\Punto de Venta\obj\x86\Debug\Punto_de_Venta.Pantallas.CategoriaProducto.Frm_ListarCategoriaProducto.resources
+C:\Users\VIANSA\Documents\GitHub\VIANSOFT_VIANSA\Punto de Venta\Punto de Venta\obj\x86\Debug\Punto_de_Venta.Pantallas.CategoriaProducto.frm_RegistrarCategoria.resources
+C:\Users\VIANSA\Documents\GitHub\VIANSOFT_VIANSA\Punto de Venta\Punto de Venta\obj\x86\Debug\Punto_de_Venta.Pantallas.Cierre_de_Cajas.Frm_ConsultaReportXFecha.resources
+C:\Users\VIANSA\Documents\GitHub\VIANSOFT_VIANSA\Punto de Venta\Punto de Venta\obj\x86\Debug\Punto_de_Venta.Pantallas.Frm_ConsultCierreCaja.resources
+C:\Users\VIANSA\Documents\GitHub\VIANSOFT_VIANSA\Punto de Venta\Punto de Venta\obj\x86\Debug\Punto_de_Venta.Pantallas.Cierre_de_Cajas.Frm_ConsultaDetalleCierre.resources
+C:\Users\VIANSA\Documents\GitHub\VIANSOFT_VIANSA\Punto de Venta\Punto de Venta\obj\x86\Debug\Punto_de_Venta.Pantallas.Cierre_de_Cajas.Frm_ListaCierres.resources
+C:\Users\VIANSA\Documents\GitHub\VIANSOFT_VIANSA\Punto de Venta\Punto de Venta\obj\x86\Debug\Punto_de_Venta.Pantallas.Cierre_de_Cajas.Frm_ListadoCierresPendientes.resources
+C:\Users\VIANSA\Documents\GitHub\VIANSOFT_VIANSA\Punto de Venta\Punto de Venta\obj\x86\Debug\Punto_de_Venta.Pantallas.Clientes.Frm_ListarClientes.resources
+C:\Users\VIANSA\Documents\GitHub\VIANSOFT_VIANSA\Punto de Venta\Punto de Venta\obj\x86\Debug\Punto_de_Venta.Pantallas.Clientes.Frm_RegistrarCliente.resources
+C:\Users\VIANSA\Documents\GitHub\VIANSOFT_VIANSA\Punto de Venta\Punto de Venta\obj\x86\Debug\Punto_de_Venta.Pantallas.Credito.Frm_AgregarAbono.resources
+C:\Users\VIANSA\Documents\GitHub\VIANSOFT_VIANSA\Punto de Venta\Punto de Venta\obj\x86\Debug\Punto_de_Venta.Pantallas.Credito.Frm_CancelarFacturas.resources
+C:\Users\VIANSA\Documents\GitHub\VIANSOFT_VIANSA\Punto de Venta\Punto de Venta\obj\x86\Debug\Punto_de_Venta.Pantallas.Credito.Frm_CancelarFacturas_Hoy.resources
+C:\Users\VIANSA\Documents\GitHub\VIANSOFT_VIANSA\Punto de Venta\Punto de Venta\obj\x86\Debug\Punto_de_Venta.Pantallas.Credito.Frm_ListarAbonosClientes.resources
+C:\Users\VIANSA\Documents\GitHub\VIANSOFT_VIANSA\Punto de Venta\Punto de Venta\obj\x86\Debug\Punto_de_Venta.Pantallas.Credito.Frm_ListarFactCred_Vencidas.resources
+C:\Users\VIANSA\Documents\GitHub\VIANSOFT_VIANSA\Punto de Venta\Punto de Venta\obj\x86\Debug\Punto_de_Venta.Pantallas.Credito.Frm_ListarFactCred_x_Cliente.resources
+C:\Users\VIANSA\Documents\GitHub\VIANSOFT_VIANSA\Punto de Venta\Punto de Venta\obj\x86\Debug\Punto_de_Venta.Pantallas.Credito.Frm_MantenimientoAbonos.resources
+C:\Users\VIANSA\Documents\GitHub\VIANSOFT_VIANSA\Punto de Venta\Punto de Venta\obj\x86\Debug\Punto_de_Venta.Pantallas.Egresos.Frm_ListadoEgresos.resources
+C:\Users\VIANSA\Documents\GitHub\VIANSOFT_VIANSA\Punto de Venta\Punto de Venta\obj\x86\Debug\Punto_de_Venta.Pantallas.Egresos.Frm_MantEgresoTipo.resources
+C:\Users\VIANSA\Documents\GitHub\VIANSOFT_VIANSA\Punto de Venta\Punto de Venta\obj\x86\Debug\Punto_de_Venta.Pantallas.Egresos.Frm_RegistrarEgresos.resources
+C:\Users\VIANSA\Documents\GitHub\VIANSOFT_VIANSA\Punto de Venta\Punto de Venta\obj\x86\Debug\Punto_de_Venta.Pantallas.FacturasDirecta.FrmFacturaDirecta.resources
+C:\Users\VIANSA\Documents\GitHub\VIANSOFT_VIANSA\Punto de Venta\Punto de Venta\obj\x86\Debug\Punto_de_Venta.Pantallas.FacturasDirecta.Frm_MostarFactActivas.resources
+C:\Users\VIANSA\Documents\GitHub\VIANSOFT_VIANSA\Punto de Venta\Punto de Venta\obj\x86\Debug\Punto_de_Venta.Pantallas.Facturas.Frm_EditarFactura.resources
+C:\Users\VIANSA\Documents\GitHub\VIANSOFT_VIANSA\Punto de Venta\Punto de Venta\obj\x86\Debug\Punto_de_Venta.Pantallas.Facturas.Frm_ListadoFacturas.resources
+C:\Users\VIANSA\Documents\GitHub\VIANSOFT_VIANSA\Punto de Venta\Punto de Venta\obj\x86\Debug\Punto_de_Venta.Pantallas.Facturas.Frm_ListadoHistFacturas.resources
+C:\Users\VIANSA\Documents\GitHub\VIANSOFT_VIANSA\Punto de Venta\Punto de Venta\obj\x86\Debug\Punto_de_Venta.Pantallas.Varias.Frm_Mantenimiento_HistFact.resources
+C:\Users\VIANSA\Documents\GitHub\VIANSOFT_VIANSA\Punto de Venta\Punto de Venta\obj\x86\Debug\Punto_de_Venta.Pantallas.Frm_Inicio.resources
+C:\Users\VIANSA\Documents\GitHub\VIANSOFT_VIANSA\Punto de Venta\Punto de Venta\obj\x86\Debug\Punto_de_Venta.Pantallas.Horas_de_Trabajo.Frm_MantenimientoHistorialHoras.resources
+C:\Users\VIANSA\Documents\GitHub\VIANSOFT_VIANSA\Punto de Venta\Punto de Venta\obj\x86\Debug\Punto_de_Venta.Pantallas.Horas_de_Trabajo.Frm_MantenimientoHoras.resources
+C:\Users\VIANSA\Documents\GitHub\VIANSOFT_VIANSA\Punto de Venta\Punto de Venta\obj\x86\Debug\Punto_de_Venta.Pantallas.Horas_de_Trabajo.Frm_MantenimientoMovConceptoPago.resources
+C:\Users\VIANSA\Documents\GitHub\VIANSOFT_VIANSA\Punto de Venta\Punto de Venta\obj\x86\Debug\Punto_de_Venta.Pantallas.Nota_Credito.Frm_IngresarNC.resources
+C:\Users\VIANSA\Documents\GitHub\VIANSOFT_VIANSA\Punto de Venta\Punto de Venta\obj\x86\Debug\Punto_de_Venta.Pantallas.Nota_Credito.Frm_ListarNC.resources
+C:\Users\VIANSA\Documents\GitHub\VIANSOFT_VIANSA\Punto de Venta\Punto de Venta\obj\x86\Debug\Punto_de_Venta.Pantallas.Orden_de_Compra.Frm_ListadoDelHistorialOrdenes.resources
+C:\Users\VIANSA\Documents\GitHub\VIANSOFT_VIANSA\Punto de Venta\Punto de Venta\obj\x86\Debug\Punto_de_Venta.Pantallas.Orden_de_Compra.Frm_ListadoOrdenesCompra.resources
+C:\Users\VIANSA\Documents\GitHub\VIANSOFT_VIANSA\Punto de Venta\Punto de Venta\obj\x86\Debug\Punto_de_Venta.Pantallas.Orden_de_Compra.Frm_MantenimientoOrdenesCompra.resources
+C:\Users\VIANSA\Documents\GitHub\VIANSOFT_VIANSA\Punto de Venta\Punto de Venta\obj\x86\Debug\Punto_de_Venta.Pantallas.Orden_de_Compra.PagaCon.resources
+C:\Users\VIANSA\Documents\GitHub\VIANSOFT_VIANSA\Punto de Venta\Punto de Venta\obj\x86\Debug\Punto_de_Venta.Pantallas.Producto.Frm_ModificarCantidad.resources
+C:\Users\VIANSA\Documents\GitHub\VIANSOFT_VIANSA\Punto de Venta\Punto de Venta\obj\x86\Debug\Punto_de_Venta.Pantallas.Usuarios.Frm_RegistroHoras.resources
+C:\Users\VIANSA\Documents\GitHub\VIANSOFT_VIANSA\Punto de Venta\Punto de Venta\obj\x86\Debug\Punto_de_Venta.Pantallas.Proforma.Frm_ListarProformas.resources
+C:\Users\VIANSA\Documents\GitHub\VIANSOFT_VIANSA\Punto de Venta\Punto de Venta\obj\x86\Debug\Punto_de_Venta.Pantallas.Proforma.Frm_RegistarProforma.resources
+C:\Users\VIANSA\Documents\GitHub\VIANSOFT_VIANSA\Punto de Venta\Punto de Venta\obj\x86\Debug\Punto_de_Venta.Pantallas.Proveedor.Frm_ListarFacturasProvVencidas.resources
+C:\Users\VIANSA\Documents\GitHub\VIANSOFT_VIANSA\Punto de Venta\Punto de Venta\obj\x86\Debug\Punto_de_Venta.Pantallas.Proveedor.Frm_ListarPagosProveedor.resources
+C:\Users\VIANSA\Documents\GitHub\VIANSOFT_VIANSA\Punto de Venta\Punto de Venta\obj\x86\Debug\Punto_de_Venta.Pantallas.Proveedor.Frm_ListarProveedores.resources
+C:\Users\VIANSA\Documents\GitHub\VIANSOFT_VIANSA\Punto de Venta\Punto de Venta\obj\x86\Debug\Punto_de_Venta.Pantallas.Proveedor.Frm_MantFactProveedor.resources
+C:\Users\VIANSA\Documents\GitHub\VIANSOFT_VIANSA\Punto de Venta\Punto de Venta\obj\x86\Debug\Punto_de_Venta.Pantallas.Proveedor.Frm_MantPagoProveedor.resources
+C:\Users\VIANSA\Documents\GitHub\VIANSOFT_VIANSA\Punto de Venta\Punto de Venta\obj\x86\Debug\Punto_de_Venta.Pantallas.Proveedor.Frm_MantPagoProveedor2.resources
+C:\Users\VIANSA\Documents\GitHub\VIANSOFT_VIANSA\Punto de Venta\Punto de Venta\obj\x86\Debug\Punto_de_Venta.Pantallas.Proveedor.Frm_MantProveedor.resources
+C:\Users\VIANSA\Documents\GitHub\VIANSOFT_VIANSA\Punto de Venta\Punto de Venta\obj\x86\Debug\Punto_de_Venta.Pantallas.Proveedor.Frm_MantProveedorNC.resources
+C:\Users\VIANSA\Documents\GitHub\VIANSOFT_VIANSA\Punto de Venta\Punto de Venta\obj\x86\Debug\Punto_de_Venta.Pantallas.Proveedor.frm_ReportePagoProveedor.resources
+C:\Users\VIANSA\Documents\GitHub\VIANSOFT_VIANSA\Punto de Venta\Punto de Venta\obj\x86\Debug\Punto_de_Venta.Pantallas.Proveedor.Frm_SelecProveedor.resources
+C:\Users\VIANSA\Documents\GitHub\VIANSOFT_VIANSA\Punto de Venta\Punto de Venta\obj\x86\Debug\Punto_de_Venta.Pantallas.Reportes.Frm_RPT_TotalInv_X_Categoria.resources
+C:\Users\VIANSA\Documents\GitHub\VIANSOFT_VIANSA\Punto de Venta\Punto de Venta\obj\x86\Debug\Punto_de_Venta.Pantallas.Varias.Frm_CalcularXPiezas.resources
+C:\Users\VIANSA\Documents\GitHub\VIANSOFT_VIANSA\Punto de Venta\Punto de Venta\obj\x86\Debug\Punto_de_Venta.frmModificarConexion.resources
+C:\Users\VIANSA\Documents\GitHub\VIANSOFT_VIANSA\Punto de Venta\Punto de Venta\obj\x86\Debug\Punto_de_Venta.Pantallas.Varias.Frm_About.resources
+C:\Users\VIANSA\Documents\GitHub\VIANSOFT_VIANSA\Punto de Venta\Punto de Venta\obj\x86\Debug\Punto_de_Venta.Pantallas.Varias.Frm_Control.resources
+C:\Users\VIANSA\Documents\GitHub\VIANSOFT_VIANSA\Punto de Venta\Punto de Venta\obj\x86\Debug\Punto_de_Venta.Pantallas.Frm_Cambio.resources
+C:\Users\VIANSA\Documents\GitHub\VIANSOFT_VIANSA\Punto de Venta\Punto de Venta\obj\x86\Debug\Punto_de_Venta.Pantallas.Frm_Factura.resources
+C:\Users\VIANSA\Documents\GitHub\VIANSOFT_VIANSA\Punto de Venta\Punto de Venta\obj\x86\Debug\Punto_de_Venta.IngresarProducto.resources
+C:\Users\VIANSA\Documents\GitHub\VIANSOFT_VIANSA\Punto de Venta\Punto de Venta\obj\x86\Debug\Punto_de_Venta.Pantallas.Facturas.Frm_Mantenimiento_Fact.resources
+C:\Users\VIANSA\Documents\GitHub\VIANSOFT_VIANSA\Punto de Venta\Punto de Venta\obj\x86\Debug\Punto_de_Venta.Pantallas.Varias.Frm_Cubicar.resources
+C:\Users\VIANSA\Documents\GitHub\VIANSOFT_VIANSA\Punto de Venta\Punto de Venta\obj\x86\Debug\Punto_de_Venta.Precio.resources
+C:\Users\VIANSA\Documents\GitHub\VIANSOFT_VIANSA\Punto de Venta\Punto de Venta\obj\x86\Debug\Punto_de_Venta.Principal.resources
+C:\Users\VIANSA\Documents\GitHub\VIANSOFT_VIANSA\Punto de Venta\Punto de Venta\obj\x86\Debug\Punto_de_Venta.Pantallas.Producto.Frm_ListarProductos.resources
+C:\Users\VIANSA\Documents\GitHub\VIANSOFT_VIANSA\Punto de Venta\Punto de Venta\obj\x86\Debug\Punto_de_Venta.Pantallas.Varias.Frm_Login.resources
+C:\Users\VIANSA\Documents\GitHub\VIANSOFT_VIANSA\Punto de Venta\Punto de Venta\obj\x86\Debug\Punto_de_Venta.Pantallas.Varias.Frm_Vuelto.resources
+C:\Users\VIANSA\Documents\GitHub\VIANSOFT_VIANSA\Punto de Venta\Punto de Venta\obj\x86\Debug\Punto_de_Venta.Properties.Resources.resources
+C:\Users\VIANSA\Documents\GitHub\VIANSOFT_VIANSA\Punto de Venta\Punto de Venta\obj\x86\Debug\Punto_de_Venta.RegistrarUsuario.resources
+C:\Users\VIANSA\Documents\GitHub\VIANSOFT_VIANSA\Punto de Venta\Punto de Venta\obj\x86\Debug\Punto_de_Venta.Pantallas.Usuarios.Frm_ListarUsuarios.resources
+C:\Users\VIANSA\Documents\GitHub\VIANSOFT_VIANSA\Punto de Venta\Punto de Venta\obj\x86\Debug\Punto_de_Venta.Pantallas.FacturasDirecta.FrmFacturaDirecta.af.resources
+C:\Users\VIANSA\Documents\GitHub\VIANSOFT_VIANSA\Punto de Venta\Punto de Venta\obj\x86\Debug\Punto de Venta.csproj.GenerateResource.Cache
+C:\Users\VIANSA\Documents\GitHub\VIANSOFT_VIANSA\Punto de Venta\Punto de Venta\obj\x86\Debug\af\Punto de Venta.resources.dll

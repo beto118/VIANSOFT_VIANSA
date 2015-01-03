@@ -109,8 +109,15 @@ namespace Punto_de_Venta.Pantallas.Credito
                 if (!respuesta.Equals(Global.elGlobal.RespuestaCorrecta))
                     MessageBox.Show(respuesta, "Error...");
                 else
+                {
+                    seRealizo = 1;
+                    string respuesta2 = "";
+                    using (ServicioEgreso elGestor = new ServicioEgreso())
+                        respuesta2 = elGestor.InsertarEgresoAutomatico(1, double.Parse(txbAbono.Text), "Ingreso automatico por abono a fact# " + txbFactNumero.Text,int.Parse(Principal.elUsuario.Codigo));
+
+                }
                     //this.Close();
-                    seRealizo=1;
+                    
             }
             else
             {
@@ -120,8 +127,13 @@ namespace Punto_de_Venta.Pantallas.Credito
                 if (!respuesta.Equals(Global.elGlobal.RespuestaCorrecta))
                     MessageBox.Show(respuesta, "Error...");
                 else
-                   // this.Close();
-                    seRealizo=1;
+                {
+                    // this.Close();
+                    seRealizo = 1;
+                    string respuesta3 = "";
+                    using (ServicioEgreso elGestor = new ServicioEgreso())
+                        respuesta3 = elGestor.InsertarEgresoAutomatico(1, double.Parse(txbAbono.Text), "Ingreso automatico por abono a fact# " + txbFactNumero.Text, int.Parse(Principal.elUsuario.Codigo));
+                }
 
             }
             if (seRealizo == 1)

@@ -143,6 +143,13 @@ namespace Punto_de_Venta.Pantallas.Credito
                         MessageBox.Show(respuesta, "Error al Cancelar las facturas");
                         return;
                     }
+                    else
+                    {
+                        string respuesta2 = "";
+                        using (ServicioEgreso elGestor = new ServicioEgreso())
+                            respuesta2 = elGestor.InsertarEgresoAutomatico(1, double.Parse(elitem.SubItems[2].Text), "Ingreso automatico por abono a fact# " + elitem.SubItems[0].Text, int.Parse(Principal.elUsuario.Codigo));
+
+                    }
                 }
                 if (respuesta.Equals(Global.elGlobal.RespuestaCorrecta))
                 {
